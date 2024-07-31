@@ -4,6 +4,10 @@ My wife wanted a glitter button, so I created this simple, animated button with 
 
 A very simple glitter button that is probably not ideal for production as it uses one element and one CSS rule for each particle .
 
+## Demo
+
+https://ultimateerror.github.io/no-js-glitter-button/
+
 ## Task Description
 - No JavaScript
 - Glitter effect
